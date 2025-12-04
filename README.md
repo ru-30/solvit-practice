@@ -1,7 +1,7 @@
-#first work 
+#first work#
 
 
-#question1. 
+#question1.# 
 let numbers = [2, 4, 6, 8, 10, 12];
 
 let result = numbers
@@ -12,29 +12,27 @@ console.log(result);
 
 
 
-#question2
+#question2#
 let text = " learn-javascript ";
 
 let result = text
   .trim()
   .toUpperCase()
   .replace("-", " ");
-
 console.log(result);
 
  
 
- #question3
+ #question3#
 const words = ["HELLO", "", "WORLD", "JS", ""];
 
 const result = words
   .filter(word => word !== "")
   .map(word => word.toLowerCase())
   .reverse();
-
 console.log(result);
 
-#question4
+#question4#
 
 let products = [
   { name: "Laptop", price: 1200 },

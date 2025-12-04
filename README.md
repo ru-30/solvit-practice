@@ -9,7 +9,8 @@ let result = numbers
   .filter(n => n >= 10)
   .sort((a, b) => b - a);
 
-console.log(result);
+console.log(result); #
+
 
 question2
 let text = " learn-javascript ";

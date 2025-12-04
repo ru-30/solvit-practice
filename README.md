@@ -49,7 +49,7 @@ let result = products
 
 console.log(result);
 
- #question5
+ # question5
  let text = "hello_world";
 let words = text.split("_");
 
@@ -59,7 +59,7 @@ let result = words
 
 console.log(result); 
 
-#question6
+# question6
 
 const users = [
   { name: "alice", role: "admin" },

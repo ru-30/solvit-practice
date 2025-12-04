@@ -8,11 +8,11 @@ let result = numbers
   .map(n => n * 2)
   .filter(n => n >= 10)
   .sort((a, b) => b - a);
+console.log(result); 
 
-console.log(result); #
 
 
-question2
+#question2
 let text = " learn-javascript ";
 
 let result = text
@@ -22,7 +22,7 @@ let result = text
 
 console.log(result);
 
- out put : LEARN JAVASCRIPT
+ 
 
  #question3
 const words = ["HELLO", "", "WORLD", "JS", ""];

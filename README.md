@@ -80,9 +80,6 @@ const text = "javascript methods are powerful tools";
 const result = text
   .split(" ")
   .filter(word => word.length > 4)
-  
-  .reverse();
-
 console.log(result);
 
 

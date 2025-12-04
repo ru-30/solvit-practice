@@ -1,7 +1,8 @@
-#first work#
+# first work#
 
 
-#question1.# 
+# question1.
+
 let numbers = [2, 4, 6, 8, 10, 12];
 
 let result = numbers
@@ -12,7 +13,8 @@ console.log(result);
 
 
 
-#question2#
+# question2
+
 let text = " learn-javascript ";
 
 let result = text
@@ -23,7 +25,8 @@ console.log(result);
 
  
 
- #question3#
+ # question3
+ 
 const words = ["HELLO", "", "WORLD", "JS", ""];
 
 const result = words
@@ -32,7 +35,7 @@ const result = words
   .reverse();
 console.log(result);
 
-#question4#
+# question4
 
 let products = [
   { name: "Laptop", price: 1200 },
